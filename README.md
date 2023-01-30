@@ -4,7 +4,6 @@ The code starts by defining the symbol for the Solana token and the API endpoint
 
 The controller has two view files, one to display the price and another to display an error message if something goes wrong. The routes file is also updated to route the URL /solana_price to the show action in the SolanaPriceController class.
 
-
 ____________________________________________________________________________________________________
 To add the code to CRM-in-Rails, you would need to follow these steps:
 
