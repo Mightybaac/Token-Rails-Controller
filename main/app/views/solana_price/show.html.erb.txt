@@ -1,0 +1,1 @@
+<p>SOL price: $<%= @price %></p>
