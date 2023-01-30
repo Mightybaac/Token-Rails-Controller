@@ -6,7 +6,7 @@ The controller has two view files, one to display the price and another to displ
 
 
 ____________________________________________________________________________________________________
-To add the code to Rails CRM, you would need to follow these steps:
+To add the code to CRM-in-Rails, you would need to follow these steps:
 
 Create a new controller: In the terminal, run rails generate controller SolanaPrice show. This will create a new controller file in the app/controllers folder and a view file in the app/views folder.
 
